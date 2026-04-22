@@ -1,0 +1,6 @@
+<svg width="480" height="480" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Student silhouette illustration">
+  <circle cx="240" cy="240" r="220" fill="#F2FAFF"/>
+  <circle cx="240" cy="170" r="70" fill="#A8D8EA"/>
+  <path d="M90 390C90 308 157 242 240 242C323 242 390 308 390 390V410H90V390Z" fill="#FFCAB1"/>
+  <rect x="160" y="290" width="160" height="90" rx="20" fill="#FFE98A"/>
+</svg>

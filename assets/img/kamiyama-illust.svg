@@ -1,0 +1,10 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kamiyama landscape illustration">
+  <rect width="800" height="520" rx="32" fill="#F9FCFF"/>
+  <ellipse cx="400" cy="460" rx="320" ry="30" fill="#DCEEF8"/>
+  <path d="M80 360L250 180L390 360H80Z" fill="#A8D8EA"/>
+  <path d="M250 360L430 120L640 360H250Z" fill="#8EC5DD"/>
+  <path d="M430 360L560 200L730 360H430Z" fill="#77B8D4"/>
+  <rect x="130" y="360" width="540" height="24" rx="12" fill="#FFCAB1"/>
+  <rect x="170" y="392" width="460" height="18" rx="9" fill="#FFE98A"/>
+  <circle cx="640" cy="120" r="48" fill="#FFE98A"/>
+</svg>
