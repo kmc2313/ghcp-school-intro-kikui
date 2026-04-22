@@ -1,0 +1,10 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hero blob background">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="900" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A8D8EA"/>
+      <stop offset="0.55" stop-color="#FFE98A"/>
+      <stop offset="1" stop-color="#FFCAB1"/>
+    </linearGradient>
+  </defs>
+  <path d="M93 128C158 28 314 -10 453 8C592 26 756 98 814 216C872 334 824 500 693 570C561 640 346 614 210 540C74 466 28 229 93 128Z" fill="url(#g1)"/>
+</svg>

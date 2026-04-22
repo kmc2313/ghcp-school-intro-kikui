@@ -1,0 +1,81 @@
+{
+  "site": {
+    "name": "Kamiyama Intro Site",
+    "tagline": "Technology x Design x Entrepreneurship"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "access": "Access",
+    "admissions": "Admissions",
+    "gallery": "Gallery",
+    "voices": "Voices",
+    "faq": "FAQ"
+  },
+  "footer": {
+    "disclaimer": "This is an unofficial page for learning. Please check the official site for accurate information.",
+    "officialLink": "Visit Official Website",
+    "mailto": "Email Official Contact"
+  },
+  "common": {
+    "reviewBadge": "[Needs Verification]",
+    "comingSoon": "Full English coming soon",
+    "fictionNote": "* Characters in this section are fictional."
+  },
+  "home": {
+    "title": "Build your future in Kamiyama.",
+    "lead": "A student-friendly introduction to Kamiyama College of Design, Technology and Entrepreneurship.",
+    "cta": "See School Features",
+    "cardsTitle": "Three Learning Pillars",
+    "cardTechTitle": "Technology",
+    "cardTechBody": "Hands-on curriculum with real implementation.",
+    "cardDesignTitle": "Design",
+    "cardDesignBody": "From problem discovery to experience design.",
+    "cardBizTitle": "Entrepreneurship",
+    "cardBizBody": "Projects that create value for society.",
+    "voicesTitle": "Student Voices",
+    "voicesBody": "Hear short stories from students.",
+    "admissionsTitle": "Check admissions on the official page",
+    "admissionsCta": "Go to Admissions"
+  },
+  "about": {
+    "title": "School Features",
+    "lead": "Five-year integrated learning with practical projects.",
+    "overviewTitle": "Overview",
+    "pillarTitle": "Three Curriculum Pillars",
+    "dormTitle": "Dorm Life"
+  },
+  "access": {
+    "title": "Access",
+    "lead": "Kamiyama is where nature meets technology.",
+    "locationTitle": "Location",
+    "townTitle": "Town Highlights",
+    "transportTitle": "Transportation",
+    "officialCta": "Official Access Page"
+  },
+  "admissions": {
+    "title": "Admissions",
+    "lead": "Please check the latest official information.",
+    "policyTitle": "Page Policy",
+    "cta": "Open Official Admissions Page",
+    "contact": "Contact"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "lead": "Original SVG visuals for this project.",
+    "item1": "Kamiyama Landscape",
+    "item2": "Campus and Dorm",
+    "item3": "Student Learning Scene",
+    "fiction": "* Images are for learning purposes"
+  },
+  "voices": {
+    "title": "Student Voices",
+    "lead": "Sample voices with fictional profiles.",
+    "name1": "Student A (Year 2)",
+    "name2": "Student B (Year 4)"
+  },
+  "faq": {
+    "title": "FAQ",
+    "lead": "Common questions before application."
+  }
+}

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>神山まるごと高専 | ホーム</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <noscript>JavaScriptを有効にすると共通ヘッダ/フッタと言語切替が利用できます。</noscript>
+    <div id="site-header"></div>
+
+    <main>
+      <section class="hero">
+        <div class="container hero-grid">
+          <div>
+            <p data-i18n="site.tagline"></p>
+            <h1 data-i18n="home.title">神山で、未来をつくる。</h1>
+            <p data-i18n="home.lead"></p>
+            <a class="btn btn-primary" href="about.html" data-i18n="home.cta"></a>
+          </div>
+          <div class="img-frame">
+            <img src="assets/img/hero-blob.svg" alt="カラフルな背景イメージ" />
+          </div>
+        </div>
+      </section>
+
+      <img class="wave" src="assets/img/wave.svg" alt="" />
+
+      <section class="section">
+        <div class="container">
+          <h2 class="section-title" data-i18n="home.cardsTitle"></h2>
+          <div class="cards">
+            <article class="card">
+              <h3 data-i18n="home.cardTechTitle"></h3>
+              <p data-i18n="home.cardTechBody"></p>
+            </article>
+            <article class="card">
+              <h3 data-i18n="home.cardDesignTitle"></h3>
+              <p data-i18n="home.cardDesignBody"></p>
+            </article>
+            <article class="card">
+              <h3 data-i18n="home.cardBizTitle"></h3>
+              <p data-i18n="home.cardBizBody"></p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container cta-band">
+          <div>
+            <h2 class="section-title" data-i18n="home.voicesTitle"></h2>
+            <p data-i18n="home.voicesBody"></p>
+          </div>
+          <a class="btn btn-accent" href="voices.html">Voices</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container cta-band">
+          <div>
+            <h2 class="section-title" data-i18n="home.admissionsTitle"></h2>
+            <span class="badge-review" data-i18n="common.reviewBadge"></span>
+          </div>
+          <a class="btn btn-primary" href="admissions.html" data-i18n="home.admissionsCta"></a>
+        </div>
+      </section>
+    </main>
+
+    <div id="site-footer"></div>
+    <script defer src="assets/js/layout.js"></script>
+    <script defer src="assets/js/i18n.js"></script>
+    <script defer src="assets/js/main.js"></script>
+  </body>
+  </html>
